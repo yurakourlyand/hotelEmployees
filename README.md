@@ -19,17 +19,3 @@ Our IDE’s of choice is jetbrain’s Webstorm.
 1. Clone this repository
 2. Run "yarn" or "npm install" from project folder
 3. Make sure that all is working using "yarn run start" / "npm run start" 
-
-#### Your Assignment
-
-You are working for a software company providing web development services for various customers. 
-Your next project is building a small web application for a hotel management company, 
-in order to help them manage their bookings and staff more effectively. 
-
-**This company has already developed it's own proprietary API for this product.**
-
-1. Their designer has uploaded the designs for the first screen: Booking Dashboard. Check them out. 
-Please note that the designer did use the Twitter's bootstrap 12 columns layout for the inner page (You can switch the grid ON in Zeplin).
-All icons/assets are exportable as well.
-
-2. TDB
